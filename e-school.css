@@ -1,0 +1,101 @@
+header{
+    display:flex;
+    align-items: center;
+    padding: 10px 30px;
+    justify-content: space-between;
+    font-size: larger;
+}
+header img{
+    height: 70px;
+
+}
+.nav-link{
+    list-style: none;
+    display:flex;
+    margin: 0px 15px;
+    font-weight: 600;
+}
+.nav-link li a{
+    margin: 0px 15px;
+    color:rgb(94, 91, 91);
+}
+button{
+    padding: 4px 20px;
+    background-color: rgb(6, 233, 6);
+    border-radius: 30px;
+    border:none;
+    font-size: larger;
+    font-family: sans-serif;
+}
+.section{
+    margin-bottom: 100px;
+}
+#headerpic{
+    display:flex;
+    padding: 10px;
+}
+div #sm img{
+    height: 500px;
+}
+#gr{
+    background-color: rgb(197, 240, 197);
+    border-radius: 5px;
+    font-size: x-large;
+    
+}
+#line{
+    display:flex;
+    padding: 50px;
+    margin:10px;
+   
+}
+div .row img{
+    height: 150px;   
+}
+#first, #second, #third, #four{
+    background-color: rgb(253, 246, 246);
+    padding: 25px 25px;
+    border-radius: 20px;
+    margin:30px;
+    text-align: center;
+}
+#first{
+    box-shadow: 0px 0px 10px rgb(150, 144, 138);
+
+}
+.pad{
+    padding: 100px;
+}
+div .cardec img{
+    height: 20px;
+}
+.card{
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 30px gray;
+}
+#last-text{
+    text-align: center;
+    padding: 100px;
+}
+div #list li{
+    list-style: none;
+    color:gray;
+}
+#foot{
+    background-color: rgb(32, 32, 32);
+    color:whitesmoke;
+    font-size: larger;
+}
+#list a{
+     color:whitesmoke;
+     font-size: larger;
+}
+#list, .gra{
+    padding: 30px;
+}
+footer h3{
+    padding: 40px 450px;
+    font-size: larger;
+}
